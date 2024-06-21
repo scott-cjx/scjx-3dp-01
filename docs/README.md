@@ -1,5 +1,13 @@
-# Template repo
+# SCJX 3D Printer Board 01
 
-This is a template repo with automated github pages documentation generation.
+A barebones 3d printer mainboard
 
-see [help](./help.md) for more.
+
+## Features
+- 6 Motors, via BTT EZ drivers
+- Heated Bed
+- X,Y,Z,E0 endstops
+- Mechnical Probe
+- 2x CanBus
+- standalone 5V3A for Raspberry Pi 
+- daughter board (for auxillary purposes -> fans, lights, etc.) 
